@@ -7,3 +7,7 @@ img {
   align-items: flex-start;
   height: 300px;
 }
+
+img#hide-me {
+  display: none;
+}
